@@ -26,7 +26,7 @@ const HeroSection = () => {
                 {" "}Future
               </span>
               <br />
-              from Mithila
+              from SkillForce
             </h1>
             
             <p className="text-xl text-muted-foreground max-w-lg">

@@ -54,7 +54,7 @@ const FooterSection = () => {
             </div>
             
             <p className="text-muted-foreground max-w-md">
-              Empowering Digital Future from Mithila. A comprehensive Human Resource Planning and Management Platform connecting talent with opportunity.
+              Empowering Digital Future from SkillForce. A comprehensive Human Resource Planning and Management Platform connecting talent with opportunity.
             </p>
             
             <div className="space-y-3">
@@ -118,8 +118,8 @@ const FooterSection = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="text-sm text-muted-foreground">
             © 2025 SkillForce International. All rights reserved. | Powered by{" "}
-            <a href="https://mithilastack.com" className="text-primary hover:underline">
-              Mithila Stack
+            <a href="https://skillforce.com" className="text-primary hover:underline">
+              SkillForce Team
             </a>
           </div>
           
